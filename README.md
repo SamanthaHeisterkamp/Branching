@@ -1,6 +1,6 @@
 ## Git and Git Branching Cheat Sheet
 
-Catgories of git commands, and pratice with branching
+Categories of git commands, and practice with branching
 
 ### Basic commands
 * 'git init' -initialize current directory repository
